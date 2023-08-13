@@ -234,7 +234,7 @@ function updateChart(initial = false) {
         xAxisIndex: 1,
         yAxisIndex: 1,
         itemStyle: {
-          color: '#777777',
+          color: '#ffffff00',
         },
         large: true,
         encode: {
